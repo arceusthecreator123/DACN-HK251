@@ -7,7 +7,7 @@ import Progress from './pages/Progress';
 import Settings from './pages/Settings';
 import SignIn from './pages/SignIn';
 import SignUp from './pages/SignUp';
-import {BrowswerRouter as Router, Route, Switch, Routes} from 'react-router-dom';
+import {BrowserRouter as Router, Route, Routes} from 'react-router-dom';
 
 
 function App() {
